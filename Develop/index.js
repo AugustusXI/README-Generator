@@ -116,7 +116,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(data, fileName) {
-  return fs.writeFile(`./dist/${fileName}`, data, (err) => {
+  return fs.writeFile(`./${fileName}`, data, (err) => {
     if (err) {
       throw err;
     }
