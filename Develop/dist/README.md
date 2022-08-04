@@ -1,4 +1,4 @@
-# README Generator
+# d
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
   ## Table of Contents 
@@ -10,13 +10,13 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  NO
+  s
 
   ## Installation:
-  NO
+  d
 
   ## Usage:
-  NO
+  s
 
   ## License:
   MIT
@@ -25,12 +25,12 @@
   HTML
 
   ## Contribution:
-  Toad
+  d
 
   ## Tests:
-  d
+  a
 
   ## Additional Info:
   - Github: [d](https://github.com/d)
   - Repo: [d](https://github.com/d)
-  - Email: a 
+  - Email: d 

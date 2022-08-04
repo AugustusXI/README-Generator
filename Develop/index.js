@@ -128,7 +128,7 @@ const init = () => {
 init()
   .then((readmeData) => {
     let markdownData = generateMarkdown(readmeData);
-    return writeToFile(markdownData, readmeData.title);
+    return writeToFile(markdownData, "README.md");
   })
   .catch((err) => {
     console.log(err);
