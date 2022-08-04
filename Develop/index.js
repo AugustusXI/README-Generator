@@ -51,10 +51,10 @@ const questions = [
     default: "",
   },
   {
-    type: "checkbox",
+    type: "list",
     name: "license",
     message: "Choose your license",
-    choices: ["MIT", "GNU", "Apache 2.0", "ISC", "none"],
+    choices: ["MIT", "GNU", "Apache 2.0", "ISC"],
     default: "",
   },
   {
@@ -104,6 +104,12 @@ const questions = [
     type: "input",
     name: "email",
     message: "Enter your email.",
+    default: "",
+  },
+  {
+    type: "input",
+    name: "screenshot",
+    message: "Provide a link to your screenshot",
     default: "",
   },
 ];
