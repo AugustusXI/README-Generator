@@ -50,4 +50,4 @@ n/a
 
 ## Screenshots:
 
-![Screenshot] (/Assets/Screen Shot 2022-08-04 at 11.20.26 AM.png)
+![Screenshot] (./Assets/Screen Shot 2022-08-04 at 11.20.26 AM.png)
