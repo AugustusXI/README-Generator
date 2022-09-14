@@ -1,54 +1,51 @@
-README Generator
-Licensing:
-license
+# README Generator
 
-Table of Contents
-Description
-Installation
-Usage
-Contribution
-Testing
-Additional Info
-[Screenshots] (#screenshots)
-Description:
-A professional README generator designed to streamline the process of creating a clean and nice looking readme file for every application
+## Licensing:
 
-Installation:
-just run an npm install and thats it
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-Usage:
-Quickly generate a custom readme file
+## Table of Contents
 
-License:
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
+- [Screenshots] (#screenshots)
+
+## Description:
+
+A command line application to generate a proffesional readme
+
+## Installation:
+
+run the NPM install is all
+
+## Usage:
+
+through the terminal
+
+## License:
+
 MIT
 
-technologies:
-HTML,JavaScript,Node.js
+## technologies:
 
-Contribution:
+HTML,CSS,JavaScript,Node.js
+
+## Contribution:
+
+## Tests:
+
 n/a
 
-Tests:
-n/a
+## Additional Info:
 
-Additional Info:
-Github: AugustusXI
-Repo: README-Generator
-Email: test@123.com
-Screenshots:
-![Screenshot] (Assets/Screen Shot 2022-08-04 at 11.20.26 AM.png)
+- Github: [AugustusXI](https://github.com/AugustusXI)
+- Repo: [Readme-Generator](https://github.com/AugustusXI/Readme-Generator)
+- Email:
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+## Screenshots:
+
+![Screenshot] ()
